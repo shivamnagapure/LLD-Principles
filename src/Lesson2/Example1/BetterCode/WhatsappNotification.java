@@ -1,6 +1,6 @@
 package Lesson2.Example1.BetterCode;
 
-public class WhatsappNotification implements Notification{
+  public class WhatsappNotification implements Notification{
 
     @Override
     public void send() {
